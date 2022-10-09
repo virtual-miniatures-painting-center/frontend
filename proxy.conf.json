@@ -1,0 +1,6 @@
+{
+  "/api": {
+    "target": "http://vmpc-api:3000",
+    "secure": false
+  }
+}
